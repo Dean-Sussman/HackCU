@@ -30,7 +30,7 @@ def getFoodBanks():
     suffix = ">Website</a></span>"
     for line in file:
         if line.startswith(prefix) and line.endswith(suffix):
-            print(line[len(prefix):-len(suffix)])
+            print(line[6:-len(suffix)-1])
 
 
 def main():

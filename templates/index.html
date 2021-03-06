@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet"  href="{{ url_for('static',
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet"  href="{{ url_for('static',
 filename='style.css')}}">
-<!--<script type = "text/javascript"-->
-<!--         src = "{{ url_for('static', filename = 'scripts.js') }}" ></script>-->
+    <!--<script type = "text/javascript"-->
+    <!--         src = "{{ url_for('static', filename = 'scripts.js') }}" ></script>-->
 </head>
 <body>
 
 <div class="header">
     <a href="#default" class="logo">foodfundr</a>
-<div class="header-right">
-    <a class="active" href=/>Visualizer</a>
-    <a href=donate_food>Donate Food</a>
+    <div class="header-right">
+        <a class="active" href=/>Community Fridge</a>
+        <a href=donate_food>Donate Food</a>
+    </div>
 </div>
+
+
+<div>
+   <img src="{{url_for('static', filename='fridge_closed.png')}}"  alt="Fridge image">
 </div>
 
 

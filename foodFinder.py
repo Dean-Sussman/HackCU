@@ -32,11 +32,35 @@ def pass_to_backend(street_address, city, state):
 
 @app.route('/donate_food')
 def donate_food():
-    werd = ""
+    value = ""
     if (foodPantries != -1):
         for var in foodPantries:
-            werd = (var.name)
-    return render_template('donate_food.html', value=werd)
+            print(var.foodItems)
+            if len(var.foodItems) > 2:
+                var.foodItems = var.foodItems.replace("[", "").replace("]", "").replace("'", "").split(", ")
+            else:
+                var.foodItems = []
+            value+=(makeTable(var.name, var.url, var.foodItems))
+    return render_template('donate_food.html', value=value)
+
+def makeTable(name, url, foodItems):
+    headers = """
+        <h2>{}</h2>
+        <h3><a href="{}">website</a></h3>""".format(name, url)
+    if len(foodItems) < 1:
+        return headers + "</br>"
+    list = """<h3>Items Needed</h3>
+        <ul> 
+            {0}
+        </ul> """
+
+    li = "<li>{0}</li>"
+    items = []
+
+    for food in foodItems:
+        items.append(li.format(food))
+    html = headers + list
+    return html.format("".join(items))+ "</br>"
 
 
 if __name__ == '__main__':

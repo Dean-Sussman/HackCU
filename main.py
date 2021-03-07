@@ -64,7 +64,7 @@ def getFoodItems(browserData):
     foodItems = []
     for item in commonFoodItems:
         if item in browserData:
-            foodItems.append(item)
+            foodItems.append(item.capitalize())
     return foodItems
 
 

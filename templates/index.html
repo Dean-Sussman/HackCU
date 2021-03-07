@@ -16,87 +16,87 @@ filename='style.css')}}">
     </div>
 </div>
 
-<div class = "fridge-container">
+<!--<div class = "fridge-container">-->
 
 
-    <div class="insidefridge">
-        <div class="door">
-            <span class="tooltiptext">Tooltip text</span>
-            <body style="text-align:center;">
-        </div>
+<div class="insidefridge">
+    <div class="door">
+        <span class="tooltiptext">Tooltip text</span>
+        <body style="text-align:center;">
     </div>
 </div>
+<!--</div>-->
 
-        <div class="donate-bar">
-            <div class="progress-bg">
-                <div class="progress-bar">
-                    <h3 class="raised">$500 raised </h3>
-                </div>
+<div class="donate-bar">
+    <div class="progress-bg">
+        <div class="progress-bar">
+            <h3 class="raised">$500 raised </h3>
+        </div>
 
-                <h3 class="goal">Goal: $1,000</h3>
+        <h3 class="goal">Goal: $1,000</h3>
+    </div>
+
+    <button id="myBtn" class="donate">Donate</button>
+    <!--<div class="btn-group" data-toggle="buttons">-->
+    <!--  <label class="btn btn-primary active">-->
+    <!--    <input type="radio" name="options" id="option1" checked> Apple-->
+    <!--  </label>-->
+    <!--  <label class="btn btn-primary">-->
+    <!--    <input type="radio" name="options" id="option2"> Samsung-->
+    <!--  </label>-->
+    <!--  <label class="btn btn-primary">-->
+    <!--    <input type="radio" name="options" id="option3"> Sony-->
+    <!--  </label>-->
+    <!--</div>-->
+    <div class="donate-bar">
+
+        <ul id="buttons">
+            <li id = "fiveDollars" >
+                <a href="#">
+                    <button data-dollars='5' data-impact="Covers housing or counseling services for one person">
+                        $5
+                    </button>
+                </a></li>
+            <li id = "tenDollars"><a href="#">
+                <button  data-dollars='10' data-impact="Covers housing or counseling services for two people">
+                    $10
+                </button>
+            </a></li>
+            <li  id = "twentyfiveDollars"><a href="#">
+                <button data-impact="Covers housing or counseling services for four people">
+                    $25
+                </button>
+            </a></li>
+            <!--        <li id="other"><a href="#">-->
+            <!--            <button data-dollars='other' data-impact="Thank you!">-->
+            <!--                OTHER-->
+            <!--            </button>-->
+            <!--        </a></li>-->
+            <!--            <li id="other-input">-->
+            <!--                <span>$</span>-->
+            <!--                <input data-impact="That’s great. Thank you!">-->
+            <!--            </li>-->
+        </ul>
+        <!--    <p class="impact">-->
+        <!--        Covers housing or counseling services for one person-->
+        <!--    </p>-->
+
+        <!-- Modal -->
+        <div id="myModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <!--                <button type="button" class="close" data-dismiss="modal"><span class="close">&times;Close</span></button>-->
+                <h2>You’re Donating:</h2>
+                <h1 style="font-size: 5.5em; margin-top: 0;">$<span id="price"></span></h1>
+                <em>Thank you!</em>
+                <!--                    <div class="modal-footer">-->
+                <!--                        <button type="button" class="btn btn-default" data-dismiss="modal">BACK</button>-->
+                <!--                        <button type="button" class="btn-green">CONTINUE</button>-->
+                <!--                    </div>-->
+
             </div>
 
-            <button id="myBtn" class="donate">Donate</button>
-            <!--<div class="btn-group" data-toggle="buttons">-->
-            <!--  <label class="btn btn-primary active">-->
-            <!--    <input type="radio" name="options" id="option1" checked> Apple-->
-            <!--  </label>-->
-            <!--  <label class="btn btn-primary">-->
-            <!--    <input type="radio" name="options" id="option2"> Samsung-->
-            <!--  </label>-->
-            <!--  <label class="btn btn-primary">-->
-            <!--    <input type="radio" name="options" id="option3"> Sony-->
-            <!--  </label>-->
-            <!--</div>-->
-            <div class="donate-bar">
-
-                <ul id="buttons">
-                    <li id = "fiveDollars" >
-                        <a href="#">
-                            <button data-dollars='5' data-impact="Covers housing or counseling services for one person">
-                                $5
-                            </button>
-                        </a></li>
-                    <li id = "tenDollars"><a href="#">
-                        <button  data-dollars='10' data-impact="Covers housing or counseling services for two people">
-                            $10
-                        </button>
-                    </a></li>
-                    <li  id = "twentyfiveDollars"><a href="#">
-                        <button data-impact="Covers housing or counseling services for four people">
-                            $25
-                        </button>
-                    </a></li>
-                    <!--        <li id="other"><a href="#">-->
-                    <!--            <button data-dollars='other' data-impact="Thank you!">-->
-                    <!--                OTHER-->
-                    <!--            </button>-->
-                    <!--        </a></li>-->
-                    <!--            <li id="other-input">-->
-                    <!--                <span>$</span>-->
-                    <!--                <input data-impact="That’s great. Thank you!">-->
-                    <!--            </li>-->
-                </ul>
-                <!--    <p class="impact">-->
-                <!--        Covers housing or counseling services for one person-->
-                <!--    </p>-->
-
-                <!-- Modal -->
-                <div id="myModal" class="modal">
-                    <div class="modal-content">
-                        <span class="close">&times;</span>
-                        <!--                <button type="button" class="close" data-dismiss="modal"><span class="close">&times;Close</span></button>-->
-                        <h2>You’re Donating:</h2>
-                        <h1 style="font-size: 5.5em; margin-top: 0;">$<span id="price"></span></h1>
-                        <em>Thank you!</em>
-                        <!--                    <div class="modal-footer">-->
-                        <!--                        <button type="button" class="btn btn-default" data-dismiss="modal">BACK</button>-->
-                        <!--                        <button type="button" class="btn-green">CONTINUE</button>-->
-                        <!--                    </div>-->
-
-                    </div>
-
-                </div>
+        </div>
 </body>
 <script type = "text/javascript"
         src = "{{ url_for('static', filename = 'scripts.js') }}" ></script>

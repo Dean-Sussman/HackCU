@@ -1,8 +1,20 @@
 var element = document.querySelector(".door");
 element.addEventListener("click", toggleDoor);
 
+var tt = document.getElementById("tt");
+var clicks = 0;
+
 function toggleDoor() {
+  clicks++;
   element.classList.toggle("doorOpen");
+  if (clicks %2 == 1) {
+    tt.style.display = "none";
+  } else {
+  setTimeout(function(){
+    tt.style.display = "block";
+}, 500);
+
+  }
 }
 var modal = document.getElementById("myModal");
 

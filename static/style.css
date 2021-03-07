@@ -6,22 +6,10 @@ body {
 	font-size: 14px;
 	line-height: 25px;
 	color: #777;
-	background: linear-gradient(-90deg, #F5F3E0, #efeccd, #fbfaf3);
+	background-color: #F5F3E0;
 	background-size: 400% 400%;
-	animation: gradientBG 12s ease infinite;
-}
-
-@keyframes gradientBG {
-	0% {
-		background-position: 0% 50%;
+	overflow: hidden;
 	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
-}
 
 
 /* Style the header with a grey background and some padding */
@@ -29,7 +17,7 @@ body {
 .header {
 	overflow: hidden;
 	background-color: #f1f1f1;
-	padding: 20px 10px;
+	padding: 15px 10px;
 }
 
 
@@ -99,24 +87,27 @@ body {
   position:relative;
   width:377px;
   height:720px;
-
+  background-size:70%;
   margin: 0;
-  margin-top:50px;
+  overflow: hidden;
 }
 
 .door
 {
   background-color: #91D6F3;
-  position:absolute;
-  top:200px;
-  left:100px;
-
-  width:277px;
-  height:520px;
-
+  position:relative;
+  top: 35%;
+  left: 18%;
+  /*left:100px;*/
+  width:52%;
+  height:50%;
   transform-origin: right;
   /*Speed of the Door animation*/
   transition: all 0.5s ease-out;
+}
+
+.door:hover {
+cursor: pointer;
 }
 
 
@@ -136,7 +127,7 @@ body {
 
 .door .tooltiptext::after {
   content: "";
-  position: absolute;
+  position: relative;
   top: 50%;
   right: 100%;
   margin-top: -5px;
@@ -155,9 +146,9 @@ body {
 }
 
 .fridge-container {
-	position: absolute;
-	top: 20%;
-	left: 5%;
+position: absolute;
+	top: 0.5%;
+	left: 3%;
 }
 
 .progress-bg {

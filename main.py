@@ -18,7 +18,6 @@ def writeFoodBanks(br, street_address, city, state):
     br["city"] = city
     controlState = br.form.find_control("state")
     br[controlState.name] = [state]
-    # br["states"] = state
     response = br.submit()
     with open("foodBanks.txt", "wb") as code:
         code.write(response.read())

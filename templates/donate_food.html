@@ -35,7 +35,9 @@ filename='style_donate_food.css')}}">
 </div>
 
 <div class="table">
-    <h1>Hello nerds {{value}}</h1>
+    <h1>{% for item in list %}
+            {{ item|safe }}
+        {% endfor %}</h1>
 </div>
 </body>
 </html>

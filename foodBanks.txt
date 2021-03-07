@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Closest Food Pantries to 1 Fake Street, New Brunswick nj</title>
+    <title>Closest Food Pantries to 300, Denver co</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Closest food pantries to 1 Fake Street, New Brunswick nj" />
-    <meta name="description" content="Closest food pantries to 1 Fake Street, New Brunswick nj" />
+    <meta name="keywords" content="Closest food pantries to 300, Denver co" />
+    <meta name="description" content="Closest food pantries to 300, Denver co" />
 	<meta name="google-site-verification" content="D18XaR9vxr0_KGV2URyZ-jB_UWxRUTGVze2Gi_ySMfE" />
     
     <!--[if lt IE 9]>
@@ -154,7 +153,7 @@
         <div class="row">
             <div class="span12">
                 <h1>
-                                            Closest Pantries to: 1 Fake Street, New Brunswick NJ
+                                            Closest Pantries to: 300, Denver CO
                                     </h1>
                 <ul class="crumb">
                     <li><a href="https://www.foodpantries.org">Home</a></li>
@@ -175,7 +174,7 @@
                
                                     <h2>Food Pantries</h2>
                     <p>
-                        We have listed all of the food pantries that we have found closest to: 1 Fake Street, New Brunswick NJ . If you know of a food pantry that is not included here, please submit new food pantries to our database by going to the ADD A LISTING link on the header of our website.
+                        We have listed all of the food pantries that we have found closest to: 300, Denver CO . If you know of a food pantry that is not included here, please submit new food pantries to our database by going to the ADD A LISTING link on the header of our website.
                     </p>
                      <div>
                     <div class="row">
@@ -201,194 +200,217 @@
                     </p>
                     <!-- Latest Entries Start -->
                     
-                        <h2><a href="https://www.foodpantries.org/li/elijahs_promise_08901" title="Elijah's Promise">Elijah's Promise</a></h2>
+                        <h2><a href="https://www.foodpantries.org/li/metro-carering" title="Metro Caring">Metro Caring</a></h2>
                         <!-- Image Start -->
                         <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/elijahs_promise_08901" title=""><img src="https://www.foodpantries.org/gallery/28971_elijahs_promise_08901_kgg.jpg" alt="Elijah's Promise"  /></a>
+                            <a href="https://www.foodpantries.org/li/metro-carering" title=""><img src="https://www.foodpantries.org/gallery/32591_metro-carering_jhl.png" alt="Metro Caring"  /></a>
                         </div>
                         <div style="margin:0px 20px 20px 0px;">
                             <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/elijahs_promise_08901" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 545-9002<br />
-                                                                    <b>Food Pantry Location: 0.25 miles from New Brunswick</b><br />
+                                <a href="https://www.foodpantries.org/li/metro-carering" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80218<br />
+                                (303) 860-7200<br />
+                                                                    <b>Food Pantry Location: 0.76 miles from Denver</b><br />
                                     * Distances posted are as the crow flies.<br />
                                                             </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/elijahs_promise_08901">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/elijahs_promise_08901">Website</a></span>                        </div>
-                        <p>Provides a food pantry. For more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/elijahs_promise_08901" title="">Go To Details Page For More Information</a>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/metro-carering">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/metro-carering">Website</a></span>                        </div>
+                        <p>Metro Caring operates one of Denver's largest hunger relief programs, including a fresh foods shopping market, teaching garden, and weekly healthy living and nutrition classes. Situated in the heart of Denver, Metro Caring distributes between 4,000 and 6,500 pounds of food, baby items, and personal care products in helping to meet the nutritional and health needs of up to 500 people every day. </p>
+                        <a href="https://www.foodpantries.org/li/metro-carering" title="">Go To Details Page For More Information</a>
 
                         <hr class="grid_8 alpha break"/>
                     
-                        <h2><a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title="Christ Episcopal Church">Christ Episcopal Church</a></h2>
+                        <h2><a href="https://www.foodpantries.org/li/denver-inner-city-parish" title="Denver Inner City Parish">Denver Inner City Parish</a></h2>
                         <!-- Image Start -->
                         <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title=""><img src="https://www.foodpantries.org/gallery/no_photo_8.jpg" alt="Christ Episcopal Church"  /></a>
+                            <a href="https://www.foodpantries.org/li/denver-inner-city-parish" title=""><img src="https://www.foodpantries.org/gallery/35866_denver-inner-city-parish_mbx.png" alt="Denver Inner City Parish"  /></a>
                         </div>
                         <div style="margin:0px 20px 20px 0px;">
                             <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 545-6262<br />
-                                                                    <b>Food Pantry Location: 0.27 miles from New Brunswick</b><br />
+                                <a href="https://www.foodpantries.org/li/denver-inner-city-parish" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80204<br />
+                                (303) 629-0636<br />
+                                                                    <b>Food Pantry Location: 0.95 miles from Denver</b><br />
+                                    * Distances posted are as the crow flies.<br />
+                                                            </p>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/denver-inner-city-parish">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/denver-inner-city-parish">Website</a></span>                        </div>
+                        <p>Hours:Wednesday and Friday9:00am - 12:00pm
+Saturday9:00am - 1:00pmNo boundaries
+Client choice
+May access food bank every two week. For more information, please call. </p>
+                        <a href="https://www.foodpantries.org/li/denver-inner-city-parish" title="">Go To Details Page For More Information</a>
+
+                        <hr class="grid_8 alpha break"/>
+                    
+                        <h2><a href="https://www.foodpantries.org/li/bienvenidos-food-bank" title="Bienvenidos Food Bank">Bienvenidos Food Bank</a></h2>
+                        <!-- Image Start -->
+                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                            <a href="https://www.foodpantries.org/li/bienvenidos-food-bank" title=""><img src="https://www.foodpantries.org/gallery/32460_bienvenidos-food-bank_vex.png" alt="Bienvenidos Food Bank"  /></a>
+                        </div>
+                        <div style="margin:0px 20px 20px 0px;">
+                            <p style="font-weight:bold;">
+                                <a href="https://www.foodpantries.org/li/bienvenidos-food-bank" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80211<br />
+                                (303) 433-6328<br />
+                                                                    <b>Food Pantry Location: 2.43 miles from Denver</b><br />
+                                    * Distances posted are as the crow flies.<br />
+                                                            </p>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/bienvenidos-food-bank">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/bienvenidos-food-bank">Website</a></span>                        </div>
+                        <p>Hours: Thursday (except the 3rd Thursday of the month)4:00pm - 5:30pmWe close for most major holidays - always call or check Facebook for closings and information.
+Pet food available on the 1st week of the month as well as SNAP (food stamp) assistances.
+Government commodities available each month
+
+We serve all people living in 80211, 80212 & 80204 or Denver c</p>
+                        <a href="https://www.foodpantries.org/li/bienvenidos-food-bank" title="">Go To Details Page For More Information</a>
+
+                        <hr class="grid_8 alpha break"/>
+                    
+                        <h2><a href="https://www.foodpantries.org/li/bienvenidos-food-bank-colfax-food-pantry" title="Bienvenidos Food Bank Colfax Food Pantry">Bienvenidos Food Bank Colfax Food Pantry</a></h2>
+                        <!-- Image Start -->
+                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                            <a href="https://www.foodpantries.org/li/bienvenidos-food-bank-colfax-food-pantry" title=""><img src="https://www.foodpantries.org/gallery/33657_bienvenidos-food-bank-colfax-food-pantry_rzw.jpg" alt="Bienvenidos Food Bank Colfax Food Pantry"  /></a>
+                        </div>
+                        <div style="margin:0px 20px 20px 0px;">
+                            <p style="font-weight:bold;">
+                                <a href="https://www.foodpantries.org/li/bienvenidos-food-bank-colfax-food-pantry" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80211<br />
+                                (303) 433-6328<br />
+                                                                    <b>Food Pantry Location: 2.44 miles from Denver</b><br />
+                                    * Distances posted are as the crow flies.<br />
+                                                            </p>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/bienvenidos-food-bank-colfax-food-pantry">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/bienvenidos-food-bank-colfax-food-pantry">Website</a></span>                        </div>
+                        <p>Office Hours: Thursday10:30am - 12:00pm 4:00pm - 5:30pm
+		
+The Food Bank distributes fresh and nonperishable food items and collects and distributes government commodities.
+
+Requirements:Must reside in Denver county and provide ID. Must be low income elderly and families, especially those out of work, homeless, disabled or with inadequate food for </p>
+                        <a href="https://www.foodpantries.org/li/bienvenidos-food-bank-colfax-food-pantry" title="">Go To Details Page For More Information</a>
+
+                        <hr class="grid_8 alpha break"/>
+                    
+                        <h2><a href="https://www.foodpantries.org/li/fish-of-east-denver" title="FISH of East Denver - Epiphany Lutheran Church">FISH of East Denver - Epiphany Lutheran Church</a></h2>
+                        <!-- Image Start -->
+                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                            <a href="https://www.foodpantries.org/li/fish-of-east-denver" title=""><img src="https://www.foodpantries.org/gallery/35616_fish-of-east-denver_pgu.JPG" alt="FISH of East Denver - Epiphany Lutheran Church"  /></a>
+                        </div>
+                        <div style="margin:0px 20px 20px 0px;">
+                            <p style="font-weight:bold;">
+                                <a href="https://www.foodpantries.org/li/fish-of-east-denver" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80209<br />
+                                (303) 234-5283<br />
+                                                                    <b>Food Pantry Location: 2.56 miles from Denver</b><br />
+                                    * Distances posted are as the crow flies.<br />
+                                                            </p>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/fish-of-east-denver">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/fish-of-east-denver">Website</a></span>                        </div>
+                        <p>Food Hours:Monday, Wednesday, Friday8:00am - 12:00pm  calls1:00pm - 5:00pm - deliveriesDelivers food to home-bound or with no transportation. Not a walk up food source. FISH of East Denver is a small, completely volunteer, registered 501(c)(3) non-profit organization that has operated continuously in East Denver since 1974. The FISH idea began in England in</p>
+                        <a href="https://www.foodpantries.org/li/fish-of-east-denver" title="">Go To Details Page For More Information</a>
+
+                        <hr class="grid_8 alpha break"/>
+                    
+                        <h2><a href="https://www.foodpantries.org/li/servicios-de-la-raza-food-pantry" title="Servicios de la Raza Food Pantry">Servicios de la Raza Food Pantry</a></h2>
+                        <!-- Image Start -->
+                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                            <a href="https://www.foodpantries.org/li/servicios-de-la-raza-food-pantry" title=""><img src="https://www.foodpantries.org/gallery/33615_servicios-de-la-raza-food-pantry_cop.jpg" alt="Servicios de la Raza Food Pantry"  /></a>
+                        </div>
+                        <div style="margin:0px 20px 20px 0px;">
+                            <p style="font-weight:bold;">
+                                <a href="https://www.foodpantries.org/li/servicios-de-la-raza-food-pantry" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80204<br />
+                                (303) 458-5851<br />
+                                                                    <b>Food Pantry Location: 2.76 miles from Denver</b><br />
+                                    * Distances posted are as the crow flies.<br />
+                                                            </p>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/servicios-de-la-raza-food-pantry">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/servicios-de-la-raza-food-pantry">Website</a></span>                        </div>
+                        <p>Office Hours: Monday - Friday 8:00am - 5:00pm
+Food Bank pick up: By appointment only Monday, Wednesday and Friday 
+Walk in during service hours and complete application. Must make an appointment for food pick up.
+Requirements:
+Photo ID
+Proof of service area address
+
+Serves: Families and individuals living in zip code 80211.</p>
+                        <a href="https://www.foodpantries.org/li/servicios-de-la-raza-food-pantry" title="">Go To Details Page For More Information</a>
+
+                        <hr class="grid_8 alpha break"/>
+                    
+                        <h2><a href="https://www.foodpantries.org/li/crossroads-of-the-rockies" title="Crossroads of the Rockies">Crossroads of the Rockies</a></h2>
+                        <!-- Image Start -->
+                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                            <a href="https://www.foodpantries.org/li/crossroads-of-the-rockies" title=""><img src="https://www.foodpantries.org/gallery/35349_crossroads-of-the-rockies_vrs.jpg" alt="Crossroads of the Rockies"  /></a>
+                        </div>
+                        <div style="margin:0px 20px 20px 0px;">
+                            <p style="font-weight:bold;">
+                                <a href="https://www.foodpantries.org/li/crossroads-of-the-rockies" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80219<br />
+                                (303) 922-8772<br />
+                                                                    <b>Food Pantry Location: 3.42 miles from Denver</b><br />
+                                    * Distances posted are as the crow flies.<br />
+                                                            </p>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/crossroads-of-the-rockies">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/crossroads-of-the-rockies">Website</a></span>                        </div>
+                        <p>Food Bank Hours:  Tuesday &amp; Thursday 9:00am to 11:15am
+                              Saturday check-in is from 9am to 9:30am
+
+Requirements: Clients must have a picture ID and proof of address.  If a client comes on a Tuesday or Thursday they cannot come on a Saturday in the future.  This is also for Saturday clients.  If they come on Saturday they c</p>
+                        <a href="https://www.foodpantries.org/li/crossroads-of-the-rockies" title="">Go To Details Page For More Information</a>
+
+                        <hr class="grid_8 alpha break"/>
+                    
+                        <h2><a href="https://www.foodpantries.org/li/rose-of-sharon-food-bank" title="Rose of Sharon Food Bank">Rose of Sharon Food Bank</a></h2>
+                        <!-- Image Start -->
+                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                            <a href="https://www.foodpantries.org/li/rose-of-sharon-food-bank" title=""><img src="http://www.foodpantries.org/gallery/1238_rose-of-sharon-food-bank_bac.jpg" alt="Rose of Sharon Food Bank"  /></a>
+                        </div>
+                        <div style="margin:0px 20px 20px 0px;">
+                            <p style="font-weight:bold;">
+                                <a href="https://www.foodpantries.org/li/rose-of-sharon-food-bank" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80216<br />
+                                (303) 308-1652<br />
+                                                                    <b>Food Pantry Location: 3.78 miles from Denver</b><br />
                                     * Distances posted are as the crow flies.<br />
                                                             </p>
                                                                                 </div>
-                        <p>Provides a food pantry. </p>
-                        <a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title="">Go To Details Page For More Information</a>
+                        <p>For more information, please call.</p>
+                        <a href="https://www.foodpantries.org/li/rose-of-sharon-food-bank" title="">Go To Details Page For More Information</a>
 
                         <hr class="grid_8 alpha break"/>
                     
-                        <h2><a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title="Ebenezer Baptist Church Food Pantry">Ebenezer Baptist Church Food Pantry</a></h2>
+                        <h2><a href="https://www.foodpantries.org/li/co_80223_community-ministry-of-southwest-denver" title="Community Ministry of Southwest Denver">Community Ministry of Southwest Denver</a></h2>
                         <!-- Image Start -->
                         <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title=""><img src="https://www.foodpantries.org/gallery/28969_ebenezer_baptist_church_08901_xnn.jpg" alt="Ebenezer Baptist Church Food Pantry"  /></a>
+                            <a href="https://www.foodpantries.org/li/co_80223_community-ministry-of-southwest-denver" title=""><img src="https://www.foodpantries.org/gallery/39536_co_80223_community-ministry-of-southwest-denver_zol.png" alt="Community Ministry of Southwest Denver"  /></a>
                         </div>
                         <div style="margin:0px 20px 20px 0px;">
                             <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 247-2459<br />
-                                                                    <b>Food Pantry Location: 0.69 miles from New Brunswick</b><br />
+                                <a href="https://www.foodpantries.org/li/co_80223_community-ministry-of-southwest-denver" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80223<br />
+                                (303) 935-3428<br />
+                                                                    <b>Food Pantry Location: 4.04 miles from Denver</b><br />
                                     * Distances posted are as the crow flies.<br />
                                                             </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901">Website</a></span>                        </div>
-                        <p>Provides a food pantry. Call for pantry hours.</p>
-                        <a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title="">Go To Details Page For More Information</a>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/co_80223_community-ministry-of-southwest-denver">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/co_80223_community-ministry-of-southwest-denver">Website</a></span>                        </div>
+                        <p>Serves: 80204, 80219, 80223, 80236 and Denver CO. 80227. May come once every 30 days.Hours:Monday, Thursday 10:00am - 1:00pm
+Tuesday 1:00am - 4:00pm
+Wednesday 10:00am - 1:00pm6:00pm - 7:30pmCommodities for 60+  1st Friday's 9-12
+Requirements: Need picture ID and proof of address (piece of mail) Id on everyone in househol</p>
+                        <a href="https://www.foodpantries.org/li/co_80223_community-ministry-of-southwest-denver" title="">Go To Details Page For More Information</a>
 
                         <hr class="grid_8 alpha break"/>
                     
-                        <h2><a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title="Five Loaves Food Pantry">Five Loaves Food Pantry</a></h2>
+                        <h2><a href="https://www.foodpantries.org/li/delano-food-ministries" title="Delano Food Ministries">Delano Food Ministries</a></h2>
                         <!-- Image Start -->
                         <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title=""><img src="https://www.foodpantries.org/gallery/32407_five-loaves-food-pantry_fsk.png" alt="Five Loaves Food Pantry"  /></a>
+                            <a href="https://www.foodpantries.org/li/delano-food-ministries" title=""><img src="http://www.foodpantries.org/gallery/35477_delano-food-ministries_ckd.JPG" alt="Delano Food Ministries"  /></a>
                         </div>
                         <div style="margin:0px 20px 20px 0px;">
                             <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 545-1019<br />
-                                                                    <b>Food Pantry Location: 0.89 miles from New Brunswick</b><br />
+                                <a href="https://www.foodpantries.org/li/delano-food-ministries" title="">View Website and Full Address</a><br />
+                                Denver, CO - 80219<br />
+                                (303) 455-5130<br />
+                                                                    <b>Food Pantry Location: 4.41 miles from Denver</b><br />
                                     * Distances posted are as the crow flies.<br />
                                                             </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/five-loaves-food-pantry">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/five-loaves-food-pantry">Website</a></span>                        </div>
-                        <p>Five Loaves Food Pantry - Cinco Panes Pantry MercadoServes: Middlesex County.Hours:Monday - Friday 10:00 am - 2:00 pmMonday and Wednesday5:00 pm - 8:00 pmThis will vary during the summer, please call in advance. We are located in the basement of Second Reformed Church, entrance is on Mine St. As a food pantry, we also provide information an</p>
-                        <a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title="Franklin Twp Food Bank">Franklin Twp Food Bank</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title=""><img src="https://www.foodpantries.org/gallery/24_franklin-twp-food-bank_zcs.jpg" alt="Franklin Twp Food Bank"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title="">View Website and Full Address</a><br />
-                                Somerset, NJ - 08875<br />
-                                (732) 246-0009<br />
-                                                                    <b>Food Pantry Location: 2.22 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/franklin-twp-food-bank">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/franklin-twp-food-bank">Website</a></span>                        </div>
-                        <p>Hours:Monday - Thursday11:00am - 3:00pmSaturday10:00am 12:00pmFor more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title="Hands of Hope for the Community at St. James Church">Hands of Hope for the Community at St. James Church</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title=""><img src="https://www.foodpantries.org/gallery/1465_hands-of-hope-for-the-community-st-james-church_znj.jpg" alt="Hands of Hope for the Community at St. James Church"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title="">View Website and Full Address</a><br />
-                                Edison, NJ - 08818<br />
-                                (732) 236-3330<br />
-                                                                    <b>Food Pantry Location: 2.32 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church">Website</a></span>                        </div>
-                        <p>A food pantry and soup kitchen.   Food Pantry Hours:1st and 3rd Saturday of the month11:00 am - 1:30 pmVarious services for clients: Thanksgiving, Christmas and Easter Dinner Food Boxes - Christmas gifts for children - Bar-b-ques on the lawn - Clothing - Books - School Supplies - Health Fairs. For more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title="St James Episcopal Church - Hands of Hope">St James Episcopal Church - Hands of Hope</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title=""><img src="https://www.foodpantries.org/gallery/29166_st_james_episcopal_church_08817_pam.jpg" alt="St James Episcopal Church - Hands of Hope"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title="">View Website and Full Address</a><br />
-                                Edison, NJ - 08818<br />
-                                (732) 236-3330<br />
-                                                                    <b>Food Pantry Location: 2.33 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817">Website</a></span>                        </div>
-                        <p>Provides a food pantry. Food Pantry Hours:1st and 3rd Saturday of every month11:00am - 1:30pmRequirements:Driver's license, verification of name and addressCompletion of a questionnaireFor more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title="Jewish Family and Vocational Service of Middlesex County, NJ - Milltown">Jewish Family and Vocational Service of Middlesex County, NJ - Milltown</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title=""><img src="https://www.foodpantries.org/gallery/29046_jewish_family_and_vocational_services_of_middlesex_county_08817_uzf.jpg" alt="Jewish Family and Vocational Service of Middlesex County, NJ - Milltown"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title="">View Website and Full Address</a><br />
-                                Milltown, NJ - 08850<br />
-                                (732) 777-1940<br />
-                                                                    <b>Food Pantry Location: 2.51 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817">Website</a></span>                        </div>
-                        <p>Provides a food pantry. We are the only Kosher Food Pantry in Middlesex County.Serves: Everyone regardless of race,
- sex, religion, etc. Hours:Monday &amp; Wednesday9:00am - 9:00pmTuesday and Thursday9:00a - 5:30pmFriday9:00am - 3:00pmPlease call to make an appoint</p>
-                        <a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title="St. Paul's Lutheran Church">St. Paul's Lutheran Church</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title=""><img src="https://www.foodpantries.org/gallery/32978_st-pauls-lutheran-church_qrv.png" alt="St. Paul's Lutheran Church"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title="">View Website and Full Address</a><br />
-                                Edison, NJ - 08817<br />
-                                (732) 287-0888<br />
-                                                                    <b>Food Pantry Location: 3.34 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison">Website</a></span>                        </div>
-                        <p>Food Pantry: Non perishable foods. Hours: Monday - Friday 9:30am -11:00amFor information, please call</p>
-                        <a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title="Franklin Food Bank">Franklin Food Bank</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title=""><img src="https://www.foodpantries.org/gallery/29005_franklin_township_food_pantry_08873_bwf.png" alt="Franklin Food Bank"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title="">View Website and Full Address</a><br />
-                                Somerset, NJ - 08873<br />
-                                (732) 246-0009<br />
-                                                                    <b>Food Pantry Location: 3.36 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                                                        <span class="blog-subhead"><a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873">Website</a></span>                        </div>
-                        <p>Provides a food pantry.&nbsp; Hablamos EspañolHours:Monday, Tuesday, Wednesday10:00am - 2:00pmThursday10:00am - 7:00pmSaturday9:00am - 12:00pmDonations Hours:Monday - Thursday9:00am - 1:00pmFor more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title="">Go To Details Page For More Information</a>
+                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/delano-food-ministries">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/delano-food-ministries">Website</a></span>                        </div>
+                        <p>Hours:Last two Tuesday and Thursday of the monthTuesday 3:00pm to 6:00pmThursday 12:00pm to 4:00pmRequirements:Must have ID and Proof of everyone in household.For more information, please call. </p>
+                        <a href="https://www.foodpantries.org/li/delano-food-ministries" title="">Go To Details Page For More Information</a>
 
                         <hr class="grid_8 alpha break"/>
                                         <!-- Latest Entries End -->
@@ -426,7 +448,7 @@
             <option value="az" >Arizona</option>
             <option value="ar" >Arkansas</option>
             <option value="ca" >California</option>
-            <option value="co" >Colorado</option>
+            <option value="co" selected>Colorado</option>
             <option value="ct" >Connecticut</option>
             <option value="de" >Delaware</option>
             <option value="dc" >District Of Columbia</option>
@@ -451,7 +473,7 @@
             <option value="ne" >Nebraska</option>
             <option value="nv" >Nevada</option>
             <option value="nh" >New Hampshire</option>
-            <option value="nj" selected>New Jersey</option>
+            <option value="nj" >New Jersey</option>
             <option value="nm" >New Mexico</option>
             <option value="ny" >New York</option>
             <option value="nc" >North Carolina</option>
@@ -594,600 +616,3 @@
 
 </body>
 </html>
-=======
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>Closest Food Pantries to 47 Easton Ave 2, New Brunswick nj</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Closest food pantries to 47 Easton Ave 2, New Brunswick nj" />
-    <meta name="description" content="Closest food pantries to 47 Easton Ave 2, New Brunswick nj" />
-	<meta name="google-site-verification" content="D18XaR9vxr0_KGV2URyZ-jB_UWxRUTGVze2Gi_ySMfE" />
-    
-    <!--[if lt IE 9]>
-    <script src="https://www.foodpantries.org/templates/inspira/js/html5shiv.js"></script>
-    <link rel="stylesheet" href="https://www.foodpantries.org/templates/inspira/css/ie.css" type="text/css">
-    <![endif]-->
-
-    <!-- CSS Files
-    ================================================== -->
-    <link rel="stylesheet" href="https://www.foodpantries.org/templates/inspira/css/main.css" type="text/css" id="main-css">
-    <link rel="stylesheet" href="https://www.foodpantries.org/templates/inspira/css/foodpantries.css" type="text/css" id="site-css">
-
-    <!-- Javascript Files
-    ================================================== -->
-    <script src="https://www.foodpantries.org/templates/inspira/js/jquery.min.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/bootstrap.min.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/jquery.isotope.min.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/jquery.prettyPhoto.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/easing.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/jquery.ui.totop.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/selectnav.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/ender.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/jquery.lazyload.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/jquery.flexslider-min.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/responsiveslides.min.js"></script>
-    <script src="https://www.foodpantries.org/templates/inspira/js/custom.js"></script>
-
-    
-</head>
-
-<body>
-
-    <script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "Organization",
-	  "url":"https://www.foodpantries.org/",
-	  "sameAs":[
-	  ],
-	  "contactPoint": [{
-		"@type" : "ContactPoint",
-		  "contactType" : "customer service",
-		  "url":"https://www.foodpantries.org/ar/about",
-		  "email":"webmaster@foodpantries.org"
-	  }]
-	}
-</script>
-<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "WebSite",
-	  "name": "FoodPantries.org",
-	  "alternateName": "food pantry, Food pantries, soup kitchens",
-	  "url": "https://www.foodpantries.org/"
-	}
-</script>
-
-
-<div id="wrapper">
-    <!-- top sliding-bar begin  -->
-    <div id="sliding-bar">
-        <div class="sliding-content">
-            <div class="container">
-                <div class="row">
-                    <div class="span4">
-                        <h4>About Food Pantries</h4>
-                        Food Pantries is not associated with any government agency or nonprofit organization. We list Food Pantries centers throughout the US.
-                        Follow us on the world wide web.
-                    </div>
-                    <div class="span4">
-                        <div class="widget widget_recent_post">
-                            <h4>Members</h4>
-                            <ul>
-                                <li><a href="https://www.foodpantries.org/listing_add_new.php">Add a Listing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="span4">
-                        <div class="widget widget_tags">
-                            <h4>Helpful Sites</h4>
-                            <ul>
-                                <li><a href="http://www.freefood.org/" target="_blank">FreeFood.org</a></li>
-                                <li><a href="https://www.homelessshelterdirectory.org/foodbanks/index.html" target="_blank">HSD Food Resources</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="sliding-toggle"></div>
-    </div>
-    <!-- top sliding-bar close  -->
-
-    <!-- header begin -->
-    <header>
-        <div class="info">
-            <div class="container">
-
-                <div class="row">
-                    <div class="span6 info-text">
-                    </div>
-                    <div class="span6 text-right">
-                        <div class="social-icons">
-                            <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/FoodPantriesorg"></a>
-                            <a class="social-icon sb-icon-rss" href="https://www.foodpantries.org/feed/"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div id="logo">
-                <h1 class="span6 logo"><a href="https://www.foodpantries.org" class='ie6fix'>Food Pantries</a></h1>
-            </div>
-            <!-- mainmenu begin -->
-            <ul id="mainmenu">
-                <li><a href="https://www.foodpantries.org">Home</a></li>
-                <li><a href="https://www.foodpantries.org/ar/about">About Us</a></li>
-                <li><a href="https://www.foodpantries.org/listing_add.php" title="Add a listing">Add a listing</a></li>
-            </ul>
-            <!-- mainmenu close -->
-        </div>
-    
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-5292768248204106",
-          enable_page_level_ads: true
-     });
-</script>
-    
-     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
-   integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
-   crossorigin=""/>
-
-    
-    
-    </header>
-    <!-- header close -->
-
-
-<div id="subheader">
-    <div class="container">
-        <div class="row">
-            <div class="span12">
-                <h1>
-                                            Closest Pantries to: 47 Easton Ave 2, New Brunswick NJ
-                                    </h1>
-                <ul class="crumb">
-                    <li><a href="https://www.foodpantries.org">Home</a></li>
-                    <li class="sep">/</li>
-                    Search Results
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Start Main Content -->
-<div id="content" class="no-bottom">
-    <div class="container content">
-        <div class="row">
-            <!-- Start Content -->
-            <div class="span8 blog">
-               
-                                    <h2>Food Pantries</h2>
-                    <p>
-                        We have listed all of the food pantries that we have found closest to: 47 Easton Ave 2, New Brunswick NJ . If you know of a food pantry that is not included here, please submit new food pantries to our database by going to the ADD A LISTING link on the header of our website.
-                    </p>
-                     <div>
-                    <div class="row">
-                        <div class="span6">
-                            
-                        </div>
-                    </div>
-                </div>
-                <hr />
-                    
-                    <p>
-                         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- foodresponsivetop -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-5292768248204106"
-                     data-ad-slot="9710568105"
-                     data-ad-format="auto"></ins>
-                <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({ });
-                </script><br />
-                
-                    </p>
-                    <!-- Latest Entries Start -->
-                    
-                        <h2><a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title="Five Loaves Food Pantry">Five Loaves Food Pantry</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title=""><img src="https://www.foodpantries.org/gallery/32407_five-loaves-food-pantry_fsk.png" alt="Five Loaves Food Pantry"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 545-1019<br />
-                                                                    <b>Food Pantry Location: 0.28 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/five-loaves-food-pantry">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/five-loaves-food-pantry">Website</a></span>                        </div>
-                        <p>Five Loaves Food Pantry - Cinco Panes Pantry MercadoServes: Middlesex County.Hours:Monday - Friday 10:00 am - 2:00 pmMonday and Wednesday5:00 pm - 8:00 pmThis will vary during the summer, please call in advance. We are located in the basement of Second Reformed Church, entrance is on Mine St. As a food pantry, we also provide information an</p>
-                        <a href="https://www.foodpantries.org/li/five-loaves-food-pantry" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title="Christ Episcopal Church">Christ Episcopal Church</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title=""><img src="https://www.foodpantries.org/gallery/no_photo_6.jpg" alt="Christ Episcopal Church"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 545-6262<br />
-                                                                    <b>Food Pantry Location: 0.39 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                                                                                </div>
-                        <p>Provides a food pantry. </p>
-                        <a href="https://www.foodpantries.org/li/christ_episcopal_church_08901" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/elijahs_promise_08901" title="Elijah's Promise">Elijah's Promise</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/elijahs_promise_08901" title=""><img src="https://www.foodpantries.org/gallery/28971_elijahs_promise_08901_kgg.jpg" alt="Elijah's Promise"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/elijahs_promise_08901" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 545-9002<br />
-                                                                    <b>Food Pantry Location: 0.81 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/elijahs_promise_08901">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/elijahs_promise_08901">Website</a></span>                        </div>
-                        <p>Provides a food pantry. For more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/elijahs_promise_08901" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title="Ebenezer Baptist Church Food Pantry">Ebenezer Baptist Church Food Pantry</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title=""><img src="https://www.foodpantries.org/gallery/28969_ebenezer_baptist_church_08901_xnn.jpg" alt="Ebenezer Baptist Church Food Pantry"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title="">View Website and Full Address</a><br />
-                                New Brunswick, NJ - 08901<br />
-                                (732) 247-2459<br />
-                                                                    <b>Food Pantry Location: 0.84 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901">Website</a></span>                        </div>
-                        <p>Provides a food pantry. Call for pantry hours.</p>
-                        <a href="https://www.foodpantries.org/li/ebenezer_baptist_church_08901" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title="Franklin Twp Food Bank">Franklin Twp Food Bank</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title=""><img src="https://www.foodpantries.org/gallery/24_franklin-twp-food-bank_zcs.jpg" alt="Franklin Twp Food Bank"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title="">View Website and Full Address</a><br />
-                                Somerset, NJ - 08875<br />
-                                (732) 246-0009<br />
-                                                                    <b>Food Pantry Location: 1.84 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/franklin-twp-food-bank">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/franklin-twp-food-bank">Website</a></span>                        </div>
-                        <p>Hours:Monday - Thursday11:00am - 3:00pmSaturday10:00am 12:00pmFor more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/franklin-twp-food-bank" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title="Hands of Hope for the Community at St. James Church">Hands of Hope for the Community at St. James Church</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title=""><img src="https://www.foodpantries.org/gallery/1465_hands-of-hope-for-the-community-st-james-church_znj.jpg" alt="Hands of Hope for the Community at St. James Church"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title="">View Website and Full Address</a><br />
-                                Edison, NJ - 08818<br />
-                                (732) 236-3330<br />
-                                                                    <b>Food Pantry Location: 2.76 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church">Website</a></span>                        </div>
-                        <p>A food pantry and soup kitchen.   Food Pantry Hours:1st and 3rd Saturday of the month11:00 am - 1:30 pmVarious services for clients: Thanksgiving, Christmas and Easter Dinner Food Boxes - Christmas gifts for children - Bar-b-ques on the lawn - Clothing - Books - School Supplies - Health Fairs. For more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/hands-of-hope-for-the-community-st-james-church" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title="St James Episcopal Church - Hands of Hope">St James Episcopal Church - Hands of Hope</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title=""><img src="https://www.foodpantries.org/gallery/29166_st_james_episcopal_church_08817_pam.jpg" alt="St James Episcopal Church - Hands of Hope"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title="">View Website and Full Address</a><br />
-                                Edison, NJ - 08818<br />
-                                (732) 236-3330<br />
-                                                                    <b>Food Pantry Location: 2.78 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817">Website</a></span>                        </div>
-                        <p>Provides a food pantry. Food Pantry Hours:1st and 3rd Saturday of every month11:00am - 1:30pmRequirements:Driver's license, verification of name and addressCompletion of a questionnaireFor more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/st_james_episcopal_church_08817" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title="Jewish Family and Vocational Service of Middlesex County, NJ - Milltown">Jewish Family and Vocational Service of Middlesex County, NJ - Milltown</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title=""><img src="https://www.foodpantries.org/gallery/29046_jewish_family_and_vocational_services_of_middlesex_county_08817_uzf.jpg" alt="Jewish Family and Vocational Service of Middlesex County, NJ - Milltown"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title="">View Website and Full Address</a><br />
-                                Milltown, NJ - 08850<br />
-                                (732) 777-1940<br />
-                                                                    <b>Food Pantry Location: 2.91 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817">Website</a></span>                        </div>
-                        <p>Provides a food pantry. We are the only Kosher Food Pantry in Middlesex County.Serves: Everyone regardless of race,
- sex, religion, etc. Hours:Monday &amp; Wednesday9:00am - 9:00pmTuesday and Thursday9:00a - 5:30pmFriday9:00am - 3:00pmPlease call to make an appoint</p>
-                        <a href="https://www.foodpantries.org/li/jewish_family_and_vocational_services_of_middlesex_county_08817" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title="Franklin Food Bank">Franklin Food Bank</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title=""><img src="https://www.foodpantries.org/gallery/29005_franklin_township_food_pantry_08873_bwf.png" alt="Franklin Food Bank"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title="">View Website and Full Address</a><br />
-                                Somerset, NJ - 08873<br />
-                                (732) 246-0009<br />
-                                                                    <b>Food Pantry Location: 2.95 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                                                        <span class="blog-subhead"><a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873">Website</a></span>                        </div>
-                        <p>Provides a food pantry.&nbsp; Hablamos EspañolHours:Monday, Tuesday, Wednesday10:00am - 2:00pmThursday10:00am - 7:00pmSaturday9:00am - 12:00pmDonations Hours:Monday - Thursday9:00am - 1:00pmFor more information, please call. </p>
-                        <a href="https://www.foodpantries.org/li/franklin_township_food_pantry_08873" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                    
-                        <h2><a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title="St. Paul's Lutheran Church">St. Paul's Lutheran Church</a></h2>
-                        <!-- Image Start -->
-                        <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
-                            <a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title=""><img src="https://www.foodpantries.org/gallery/32978_st-pauls-lutheran-church_qrv.png" alt="St. Paul's Lutheran Church"  /></a>
-                        </div>
-                        <div style="margin:0px 20px 20px 0px;">
-                            <p style="font-weight:bold;">
-                                <a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title="">View Website and Full Address</a><br />
-                                Edison, NJ - 08817<br />
-                                (732) 287-0888<br />
-                                                                    <b>Food Pantry Location: 3.66 miles from New Brunswick</b><br />
-                                    * Distances posted are as the crow flies.<br />
-                                                            </p>
-                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison">Email</a></span>                            <span class="blog-subhead"><a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison">Website</a></span>                        </div>
-                        <p>Food Pantry: Non perishable foods. Hours: Monday - Friday 9:30am -11:00amFor information, please call</p>
-                        <a href="https://www.foodpantries.org/li/st-pauls-lutheran-church-edison" title="">Go To Details Page For More Information</a>
-
-                        <hr class="grid_8 alpha break"/>
-                                        <!-- Latest Entries End -->
-                                <p>
-                    <script type="text/javascript"><!--
-                        google_ad_client = "pub-5292768248204106";
-                        /* 336x280, created 3/27/10 */
-                        google_ad_slot = "4914608708";
-                        google_ad_width = 336;
-                        google_ad_height = 280;
-                        //-->
-                    </script>
-                    <script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-                </p>
-            </div><!-- Content END -->
-            <!-- Start Sidebar Gradient -->
-            <div class="span4">
-                <!-- Start Sidebar -->
-<div class="grid_3 sidebar">
-   
-   <hr />
-   <div class="widget">
-      <h4>Find Closest Food Pantries to An Address</h4>
-      <form id="form" action="https://www.foodpantries.org/address_geo.php" method="post">
-         Enter Address (Pantries Near): <br />
-         <input name="address" type="text" value="" size="35" maxlength="35" />
-         <br>
-         Enter City:<br />
-         <input name="city" type="text" value="" size="35" maxlength="70" />
-         <br>
-         <select id="state" name="state">
-            <option value="" selected>Choose State</option>
-            <option value="al" >Alabama</option>
-            <option value="ak" >Alaska</option>
-            <option value="az" >Arizona</option>
-            <option value="ar" >Arkansas</option>
-            <option value="ca" >California</option>
-            <option value="co" >Colorado</option>
-            <option value="ct" >Connecticut</option>
-            <option value="de" >Delaware</option>
-            <option value="dc" >District Of Columbia</option>
-            <option value="fl" >Florida</option>
-            <option value="ga" >Georgia</option>
-            <option value="hi" >Hawaii</option>
-            <option value="id" >Idaho</option>
-            <option value="il" >Illinois</option>
-            <option value="in" >Indiana</option>
-            <option value="ia" >Iowa</option>
-            <option value="ks" >Kansas</option>
-            <option value="ky" >Kentucky</option>
-            <option value="la" >Louisiana</option>
-            <option value="me" >Maine</option>
-            <option value="md" >Maryland</option>
-            <option value="ma" >Massachusetts</option>
-            <option value="mi" >Michigan</option>
-            <option value="mn" >Minnesota</option>
-            <option value="ms" >Mississippi</option>
-            <option value="mo" >Missouri</option>
-            <option value="mt" >Montana</option>
-            <option value="ne" >Nebraska</option>
-            <option value="nv" >Nevada</option>
-            <option value="nh" >New Hampshire</option>
-            <option value="nj" selected>New Jersey</option>
-            <option value="nm" >New Mexico</option>
-            <option value="ny" >New York</option>
-            <option value="nc" >North Carolina</option>
-            <option value="nd" >North Dakota</option>
-            <option value="oh" >Ohio</option>
-            <option value="ok" >Oklahoma</option>
-            <option value="or" >Oregon</option>
-            <option value="pa" >Pennsylvania</option>
-            <option value="ri" >Rhode Island</option>
-            <option value="sc" >South Carolina</option>
-            <option value="sd" >South Dakota</option>
-            <option value="tn" >Tennessee</option>
-            <option value="tx" >Texas</option>
-            <option value="ut" >Utah</option>
-            <option value="vt" >Vermont</option>
-            <option value="va" >Virginia</option>
-            <option value="wa" >Washington</option>
-            <option value="wv" >West Virginia</option>
-            <option value="wi" >Wisconsin</option>
-            <option value="wy" >Wyoming</option>
-         </select>
-         <p align="left">
-            <br>
-            <input name="image" type="image" src="https://www.foodpantries.org/images/searchbutton.jpg">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </form>
-   </div>
-   
-   
-   
-   
-   
-   <br /><br />
-      <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-   <fb:like-box href="https://www.facebook.com/FoodPantriesorg" width="240" show_faces="true" stream="false" header="true"></fb:like-box>
-   <! -- end facebook widget -->
-</div>
-<!-- Sidebar END -->
-
-            </div>
-        </div>
-    </div>
-</div><!-- Main Content END -->
-
-<script type="text/javascript" src="https://www.foodpantries.org/templates/inspira/js/jquery.nailthumb.1.0.min.js"></script>
-<link rel="stylesheet" href="https://www.foodpantries.org/templates/inspira/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
-
-<style type="text/css" media="screen">
-    .square-thumb {
-        width: 80px;
-        height: 80px;
-    }
-    .rectangular-thumb {
-        width: 200px;
-        height: 120px;
-    }
-</style>
-<script type="text/javascript">
-    jQuery(document).ready(function() {
-        jQuery('.nailthumb-container').nailthumb();
-    });
-</script>
-
-<!-- footer begin -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="span4">
-                <img src="https://www.foodpantries.org/images/logo.png" alt="" style="width: auto;">
-
-                <h4>About Food Pantries</h4>
-
-                <p>Food Pantries is not associated with any government agency or nonprofit organization. We list  Food Pantries centers throughout the US.</p>
-
-                <p><a href="https://www.foodpantries.org/ar/privacy-policy">Privacy Policy</a></p>
-
-                <ul class="social_bookmarks_footer">
-                    <li class="facebook"><a href="http://www.facebook.com/FoodPantriesorg" class="" title="Facebook">Facebook</a></li>                                        <li class="rss"><a href="https://www.foodpantries.org/feed/" class="" title="RSS">RSS</a></li>
-                </ul>
-            </div>
-
-            <div class="span4">
-                <div class="widget widget_recent_post">
-                    <h4>Members</h4>
-
-                    <ul class="footer_widget_list">
-                        <li><a href="https://www.foodpantries.org/listing_add.php" title="Add a listing">Add a listing</a>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="span4">
-                <div class="widget widget_tags">
-                    <h4>Helpful sites</h4>
-
-                    <ul class="footer_widget_list">
-                        <li><a href="https://www.freefood.org" class="" title="">FreeFood.org</a></li>
-                        <li><a href="https://www.homelessshelterdirectory.org/foodbanks/index.html" class="" title="">HSD Food Resources</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="subfooter">
-        <div class="container">
-            <div class="row">
-                <div class="span6">
-                    &copy; Copyright 2021 - Food Pantries
-                </div>
-                <div class="span6">
-                    <nav>
-                        <ul>
-                            <li><a href="https://www.foodpantries.org/">Home</a></li>
-                            <li><a href="https://www.foodpantries.org/ar/about">About Us</a></li>
-                            <li><a href="https://www.foodpantries.org/member/listing_add_new.php">Add a listing</a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</footer>
-<!-- footer close -->
-
-<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3966987-16"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-39'+'66987-16');
-</script>
-
-
-</body>
-</html>
->>>>>>> 894edca01b052738f84ddb0eb29007aa97c45543

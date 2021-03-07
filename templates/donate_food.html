@@ -9,7 +9,7 @@ filename='style_donate_food.css')}}">
 </head>
 <body>
 <div class="header">
-    <a class="logo">foodfundr</a>
+    <a class="logo">foodfund</a>
     <div class="header-right">
         <a  href=/>Community Fridge</a>
         <a href=donate_food class="active">Donate Food</a>
@@ -35,7 +35,9 @@ filename='style_donate_food.css')}}">
 </div>
 
 <div class="table">
-    <h1>Hello nerds {dean:}</h1>
+    <h1>{% for item in list %}
+            {{ item|safe }}
+        {% endfor %}</h1>
 </div>
 </body>
 </html>

@@ -67,10 +67,10 @@ def getFoodItems(browserData):
     return foodItems
 
 
-def main():
+def main(street_address, city, state):
     br = mechanize.Browser()
     br.set_handle_robots(False)  # ignore robots
-   # writeFoodBanks(br)
+    writeFoodBanks(br, street_address, city, state)
     foodBankUrls = getFoodBankUrls(br)
     foodPantries = []
     for url in foodBankUrls:
@@ -79,10 +79,4 @@ def main():
             foodPantries.append(var)
 
     # foodPantry items are done
-    for var in foodPantries:
-        print("Name: " + var.name)
-        print("Url: " + var.url)
-        print("Food Items: " + var.foodItems, "\n")
-
-
-main()
+    return foodPantries

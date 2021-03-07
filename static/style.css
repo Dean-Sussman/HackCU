@@ -96,7 +96,7 @@ body {
 {
   background-color: #91D6F3;
   position:relative;
-  top: 35%;
+  top: 30%;
   left: 18%;
   /*left:100px;*/
   width:52%;
@@ -393,4 +393,22 @@ body .progress-bg div {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+
+#eggs1 {
+    position: absolute;
+    top: 43%;
+    left: 23%;
+}
+
+#eggs2 {
+    position: absolute;
+    top: 43%;
+    left: 43%;
+}
+
+#eggs3 {
+    position: absolute;
+    top: 59%;
+    left: 23%;
 }

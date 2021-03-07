@@ -7,8 +7,10 @@ var clicks = 0;
 function toggleDoor() {
   clicks++;
   element.classList.toggle("doorOpen");
-  if (clicks %2 == 1) {
+  if (clicks %2 == 1) { //when door is opened
     tt.style.display = "none";
+
+
   } else {
   setTimeout(function(){
     tt.style.display = "block";
@@ -25,10 +27,13 @@ var btn = document.getElementById("myBtn");
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal
+var impactEggs = document.getElementById("eggImage");
+
 btn.onclick = function() {
   modal.style.display = "block";
-   console.log("modal click:" + donation);
+  console.log("modal click:" + donation);
   document.getElementById("price").innerHTML = donation;
+  document.getElementById("impact").innerHTML = donation % 2;
 }
 
 // When the user clicks on <span> (x), close the modal

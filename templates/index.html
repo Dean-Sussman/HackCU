@@ -17,14 +17,15 @@ filename='style.css')}}">
 </div>
 
 <div class = "fridge-container">
-
-
-<div class="insidefridge">
-    <div class="door">
-        <span class="tooltiptext" id="tt">Help fill up the fridge!</span>
-        <body style="text-align:center;">
+    <div class="insidefridge">
+        <img src="{{url_for('static', filename='eggs.png')}}" id = "eggs1"/>
+        <img src="{{url_for('static', filename='eggs.png')}}" id = "eggs2" />
+        <img src="{{url_for('static', filename='eggs.png')}}" id = "eggs3"/>
+        <div class="door">
+            <span class="tooltiptext" id="tt">Help fill up the fridge!</span>
+            <body style="text-align:center;">
+        </div>
     </div>
-</div>
 </div>
 
 <div class="donate-bar">
@@ -37,17 +38,6 @@ filename='style.css')}}">
     </div>
 
     <button id="myBtn" class="donate">Donate</button>
-    <!--<div class="btn-group" data-toggle="buttons">-->
-    <!--  <label class="btn btn-primary active">-->
-    <!--    <input type="radio" name="options" id="option1" checked> Apple-->
-    <!--  </label>-->
-    <!--  <label class="btn btn-primary">-->
-    <!--    <input type="radio" name="options" id="option2"> Samsung-->
-    <!--  </label>-->
-    <!--  <label class="btn btn-primary">-->
-    <!--    <input type="radio" name="options" id="option3"> Sony-->
-    <!--  </label>-->
-    <!--</div>-->
     <div class="donate-bar">
 
         <ul id="buttons">
@@ -89,7 +79,7 @@ filename='style.css')}}">
                 <h2>You’re Donating:</h2>
                 <h1 style="font-size: 5.5em; margin-top: 0;">$<span id="price"></span></h1>
                 <em>Thank you! Check out the fridge!</em>
-                <p> This donation will provide 2 dozen eggs to those in need.</p>
+                <p> This donation will provide <span id="impact"></span> dozen eggs to those in need.</p>
                 <!--                    <div class="modal-footer">-->
                 <!--                        <button type="button" class="btn btn-default" data-dismiss="modal">BACK</button>-->
                 <!--                        <button type="button" class="btn-green">CONTINUE</button>-->

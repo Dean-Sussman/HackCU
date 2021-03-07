@@ -113,7 +113,8 @@ cursor: pointer;
 
 .door .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: auto;
+  height: auto;
   background-color: black;
   color: #fff;
   text-align: center;
@@ -399,16 +400,19 @@ body .progress-bg div {
     position: absolute;
     top: 43%;
     left: 23%;
+     display: none;
 }
 
 #eggs2 {
     position: absolute;
     top: 43%;
     left: 43%;
+     display: none;
 }
 
 #eggs3 {
     position: absolute;
     top: 59%;
     left: 23%;
+    display: none;
 }

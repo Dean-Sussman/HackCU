@@ -2,6 +2,10 @@ var element = document.querySelector(".door");
 element.addEventListener("click", toggleDoor);
 
 var tt = document.getElementById("tt");
+var impactNum = document.getElementById("impact");
+var egg1 = document.getElementById("eggs1");
+var egg2 = document.getElementById("eggs2");
+var egg3 = document.getElementById("eggs3");
 var clicks = 0;
 
 function toggleDoor() {
@@ -9,8 +13,16 @@ function toggleDoor() {
   element.classList.toggle("doorOpen");
   if (clicks %2 == 1) { //when door is opened
     tt.style.display = "none";
-
-
+    if (impactEggs > 5) {
+     egg1.style.display = "block";
+     egg2.style.display = "block";
+     egg3.style.display = "block";
+    } else if(impactEggs > 2) {
+     egg1.style.display = "block";
+     egg2.style.display = "block";
+    } else {
+      egg1.style.display = "block";
+    }
   } else {
   setTimeout(function(){
     tt.style.display = "block";
@@ -27,13 +39,14 @@ var btn = document.getElementById("myBtn");
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal
-var impactEggs = document.getElementById("eggImage");
+var impactEggs = 0;
 
 btn.onclick = function() {
   modal.style.display = "block";
   console.log("modal click:" + donation);
   document.getElementById("price").innerHTML = donation;
-  document.getElementById("impact").innerHTML = donation % 2;
+  impactEggs = Math.floor(donation / 3);
+ document.getElementById("impact").innerHTML = impactEggs;
 }
 
 // When the user clicks on <span> (x), close the modal

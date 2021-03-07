@@ -1,5 +1,5 @@
 import mechanize
-from flask import Flask, render_template, request, redirect, session, url_for
+from flask import Flask, render_template, request, redirect
 
 from main import main
 

@@ -4,13 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet"  href="{{ url_for('static',
 filename='style.css')}}">
-    <!--<script type = "text/javascript"-->
-    <!--         src = "{{ url_for('static', filename = 'scripts.js') }}" ></script>-->
+
 </head>
 <body>
 
 <div class="header">
-    <a class="logo">foodfundr</a>
+    <a class="logo">foodfund</a>
     <div class="header-right">
         <a class="active" href=/>Community Fridge</a>
         <a href=donate_food>Donate Food</a>
@@ -29,8 +28,55 @@ filename='style.css')}}">
 
     <h3 class="goal">Goal: $1,000</h3>
 </div>
+<button id="myBtn" class="donate">Open Modal</button>
+
+<div class="donate-bar">
+    <ul id="buttons">
+        <li>
+            <a href="#">
+                <button data-dollars='25' data-impact="Covers housing or counseling services for one person">
+                    $5
+                </button>
+            </a></li>
+        <li><a href="#">
+            <button data-dollars='50' data-impact="Covers housing or counseling services for two people">
+                $10
+            </button>
+        </a></li>
+        <li><a href="#">
+            <button data-dollars='100' data-impact="Covers housing or counseling services for four people">
+                $25
+            </button>
+        </a></li>
+        <li id="other"><a href="#">
+            <button data-dollars='other' data-impact="Thank you!">
+                OTHER
+            </button>
+        </a></li>
+        <!--            <li id="other-input">-->
+        <!--                <span>$</span>-->
+        <!--                <input data-impact="That’s great. Thank you!">-->
+        <!--            </li>-->
+    </ul>
+    <p class="impact">
+        Covers housing or counseling services for one person
+    </p>
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+    <!--                <button type="button" class="close" data-dismiss="modal"><span class="close">&times;Close</span></button>-->
+                <h2>You’re Donating:</h2>
+                <h1 style="font-size: 5.5em; margin-top: 0;">$<span id="price"></span></h1>
+                <em>Thank you!</em>
+    <!--                    <div class="modal-footer">-->
+    <!--                        <button type="button" class="btn btn-default" data-dismiss="modal">BACK</button>-->
+    <!--                        <button type="button" class="btn-green">CONTINUE</button>-->
+    <!--                    </div>-->
 
 
-
+</div>
 </body>
+<script type = "text/javascript"
+        src = "{{ url_for('static', filename = 'scripts.js') }}" ></script>
 </html>

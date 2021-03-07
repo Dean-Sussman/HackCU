@@ -25,7 +25,7 @@ def donate():
 
 
 def pass_to_backend(street_address, city, state):
-    writeFoodBanks(mechanize.Browser(), street_address, city, state);
+   writeFoodBanks(mechanize.Browser(), street_address, city, state);
 
 
 @app.route('/donate_food')

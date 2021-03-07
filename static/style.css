@@ -400,7 +400,7 @@ body .progress-bg div {
     position: absolute;
     top: 43%;
     left: 23%;
-     display: none;
+    display: none;
 }
 
 #eggs2 {
@@ -415,4 +415,39 @@ body .progress-bg div {
     top: 59%;
     left: 23%;
     display: none;
+}
+
+#eggs4 {
+    position: absolute;
+    top: 55%;
+    left: 23%;
+    display: none;
+}
+
+#eggs5 {
+    position: absolute;
+    top: 59%;
+    left: 43%;
+display: none;
+}
+
+#eggs6 {
+    position: absolute;
+    top: 69%;
+    left: 23%;
+display: none;
+}
+
+#eggs7 {
+    position: absolute;
+    top: 69%;
+    left: 43%;
+display: none;
+}
+
+#eggs8 {
+    position: absolute;
+    top: 64%;
+    left: 23%;
+display: none;
 }

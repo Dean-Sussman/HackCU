@@ -1,16 +1,17 @@
 /* Style inputs with type="text", select elements and textareas */
+
 body {
-    font-family: "Roboto", Helvetica, Arial, sans-serif;
-    font-weight: 100;
-    font-size: 14px;
-    line-height: 25px;
-    color: #777;
-    background: linear-gradient(-90deg, #F5F3E0 , #efeccd , #fbfaf3);
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	font-size: 14px;
+	line-height: 25px;
+	color: #777;
+	background: linear-gradient(-90deg, #F5F3E0, #efeccd, #fbfaf3);
 	background-size: 400% 400%;
 	animation: gradientBG 12s ease infinite;
-  }
+}
 
-  @keyframes gradientBG {
+@keyframes gradientBG {
 	0% {
 		background-position: 0% 50%;
 	}
@@ -22,86 +23,63 @@ body {
 	}
 }
 
-input[type=text], select, textarea {
-    width: 100%;
-    border: 1px solid #ebfbfe;
-    border-radius: 10px; /* Rounded borders */
-    box-sizing: border-box; /* Make sure that padding and width stays in place */
-    margin-top: 6px; /* Add a top margin */
-    margin-bottom: 16px; /* Bottom margin */
-    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
-    padding: 5px;
-  }
 
-  /* Style the submit button with a specific background color etc */
-  input[type=submit] {
-    background-color: #ff9494;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    align-content: center;
-  }
+/* Style the header with a grey background and some padding */
 
-  /* When moving the mouse over the submit button, add a darker green color */
-  input[type=submit]:hover {
-    background-color: #ff6161;
-  }
-
-  /* Add a background color and some padding around the form */
-  .container {
-    margin: auto;
-    margin-top: 10px;
-    width: 50%;
-    border-radius: 5px;
-    background-color:#ebfbfe;
-    padding: 20px;
-  }
-
- /* Style the header with a grey background and some padding */
 .header {
-  overflow: hidden;
-  background-color: #f1f1f1;
-  padding: 20px 10px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	padding: 20px 10px;
 }
+
 
 /* Style the header links */
+
 .header a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px;
-  line-height: 25px;
-  border-radius: 4px;
+	float: left;
+	color: black;
+	text-align: center;
+	padding: 12px;
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 25px;
+	border-radius: 4px;
 }
+
 
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+
 .header a.logo {
-  font-size: 25px;
-  font-weight: bold;
+	font-size: 25px;
+	font-weight: bold;
 }
+
 
 /* Change the background color on mouse-over */
+
 .header a:hover {
-  background-color: #ddd;
-  color: black;
+	background-color: #ddd;
+	color: black;
 }
+
 
 /* Style the active/current link*/
+
 .header a.active {
-  background-color: #91D6F3 ;
-  color: white;
+	background-color: #91D6F3;
+	color: white;
 }
+
 
 /* Float the link section to the right */
+
 .header-right {
-  float: right;
+	float: right;
 }
 
+
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
@@ -112,30 +90,62 @@ input[type=text], select, textarea {
     float: none;
   }
 }
-<<<<<<< HEAD
+
 .insidefridge
 {
-  background-color: #333;
+  background: url('fridge_open1.png');
+            background-repeat: no-repeat;
+            background-position: left;
   position:relative;
-  width:200px;
-  height:300px;
+  width:377px;
+  height:720px;
 
-  margin: 0 auto;
+  margin: 0;
   margin-top:50px;
 }
 
 .door
 {
-  background-color: brown;
+  background-color: #91D6F3;
   position:absolute;
-  top:0px;
-  left:0px;
-  width:200px;
-  height:300px;
+  top:200px;
+  left:100px;
+
+  width:277px;
+  height:520px;
 
   transform-origin: right;
   /*Speed of the Door animation*/
   transition: all 0.5s ease-out;
+}
+
+
+.door .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 110%;
+}
+
+.door .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.door:hover .tooltiptext {
+  visibility: visible;
 }
 
 .doorOpen
@@ -143,90 +153,86 @@ input[type=text], select, textarea {
   /*prespective creates the door open effect*/
   transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(180deg);
 }
-=======
 
-.fridge-container{
-position: absolute;
-top: 20%;
-left: 5%;
+.fridge-container {
+	position: absolute;
+	top: 20%;
+	left: 5%;
 }
 
 .progress-bg {
 	margin: 0 auto;
-	width: 50%;
-	height: 78px;
+	/*width: 50%;*/
+	height: 50px;
 	border-radius: 10px;
-	position:absolute;
-  top:50%;
-  right:5%;
-  text-align: center;
-	-moz-box-shadow:    inset 0 0 10px #ccc;
-	-webkit-box-shadow: inset 0 0 10px #ccc;
-	box-shadow:         inset 0 0 10px #ccc;
+	position: relative;
+/*	top: 50%;
+	right: 2%;*/
+	text-align: center;
+	background-color: #E9DDBF;
 }
 
 .progress-bar {
-	height: 78px;
+	height: 100%;
 	border-radius: 10px;
 	float: left;
 	width: 50%;
-	/* fallback */
 	background-color: #306B34;
-
-	/* Safari 4-5, Chrome 1-9 */
-	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(306B34), to(#27425f));
-
-	/* Safari 5.1, Chrome 10+ */
-	background: -webkit-linear-gradient(top, #306B34, #27425f);
 }
 
-.progress-bg h3.goal, .progress-bg h3.raised {
-	font-family: Arial,sans-serif;
-    font-size: 2em;
-    font-weight: 600;
+.progress-bg h3.goal,
+.progress-bg h3.raised {
+	font-family: Arial, sans-serif;
+	font-size: 150%;
+	font-weight: 600;
 	line-height: 78px;
 	margin: 0;
 	padding: 0;
-	text-align: center;
 	display: inline;
 }
 
-
 .progress-bg h3.raised {
 	color: #fff;
-	margin: 14px 25px 0 50px;
-	padding: 0 25px 0 0;
+	text-align: right;
 }
 
 .progress-bg h3.goal {
-	color: #b2b2b2;
-  text-align: center;
+	color: #887E63;
+	text-align: right;
 }
 
 body .progress-bg h3.raised {
-    -webkit-animation: fadein 4s; /* Safari and Chrome */
-       -moz-animation: fadein 4s; /* Firefox */
-        -ms-animation: fadein 4s; /* Internet Explorer */
-         -o-animation: fadein 4s; /* Opera */
-            animation: fadein 4s;
+	-webkit-animation: fadein 4s;
+	/* Safari and Chrome */
+	-moz-animation: fadein 4s;
 }
 
 @keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
+
 /* Safari and Chrome */
+
 @-webkit-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
 .progress-bg h3.goal {
 	float: right;
 	display: inline;
 	padding: 0 25px 0 0;
-  text-align: center;
+	text-align: center;
 }
 
 body .progress-bg div {
@@ -237,97 +243,158 @@ body .progress-bg div {
 }
 
 @-webkit-keyframes progress-bar {
-    from { width: 0%; }
-    to { width: 50%; }
+	from {
+		width: 0%;
+	}
+	to {
+		width: 50%;
+	}
 }
 
 @-moz-keyframes progress-bar {
-    from { width: 0%; }
-    to { width: 50%; }
+	from {
+		width: 0%;
+	}
+	to {
+		width: 50%;
+	}
 }
 
 @-o-keyframes progress-bar {
-    from { width: 0%; }
-    to { width: 50%; }
+	from {
+		width: 0%;
+	}
+	to {
+		width: 50%;
+	}
 }
 
 @keyframes progress-bar {
-    from { width: 0%; }
-    to { width: 50%; }
+	from {
+		width: 0%;
+	}
+	to {
+		width: 50%;
+	}
 }
 
-.donate{
-  background: #51804B;
-  background-size: 200% 100%;
-  border-radius: 4px;
-  color: #fff;
-  position: absolute;
-  text-align: center;
-  top: 85%;
-  right: 30%;
-    font-size: 100%;
+.donate {
+	background: #51804B;
+    margin: 2em 2em 2em 2em;
+    padding: 1em 3em 1em 3em;
+    cursor: pointer;
+    text-decoration: none;
+	color: #FFFFFF;
+	display: block;
+	line-height: 25px;
+	border-radius: 6px;
+	overflow: hidden;
+	border: none;
+	font-size: 150%;
+	position: absolute;
+	text-align: center;
+	top: 85%;
+	right: 30%;
 }
 
-.donate a:hover {
-    background-color: #306B34;
+.donate:hover {
+	background-color: #306B34;
+	border: inherit;
 }
 
 .donate-bar {
-  position: absolute;
-  top: 65%;
-  right: 30%;
+	position: absolute;
+	top: 50%;
+	right: 8%;
+	width: 50%;
+	height: auto;
 }
 
 #buttons li {
-  float: left;
-  list-style: none;
-  text-align: center;
-  background-color: #000000;
-  margin-right: 30px;
-  width: 50px;
-  line-height: 60px;
+	float: left;
+	list-style: none;
+	text-align: center;
+	background-color: #58C0ED;
+	margin-right: 10px;
+	line-height: 60px;
+	border-radius: 12px;
+	overflow: hidden;
 }
 
 #buttons li a {
-  text-decoration: none;
-  color: #FFFFFF;
-  display: block;
+	text-decoration: none;
+	color: #FFFFFF;
+	display: block;
+	padding: 12px;
+	font-size: 18px;
+	line-height: 25px;
+	border-radius: 4px;
+	overflow: hidden;
+}
+
+#buttons li a button{
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
 }
 
 #buttons li a:hover {
-  text-decoration: none;
-  color: #000000;
-  background-color: #33B5E5;
+	text-decoration: none;
+	color: #00A3ED;
+	/*background-color: #33B5E5;*/
+	display: block;
+	padding: 12px;
+	font-size: 18px;
+	line-height: 25px;
+	border: inherit;
 }
 
 .modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+	display: none;
+	/* Hidden by default */
+	position: fixed;
+	/* Stay in place */
+	z-index: 1;
+	/* Sit on top */
+	left: 0;
+	top: 0;
+	width: 100%;
+	/* Full width */
+	height: 100%;
+	/* Full height */
+	overflow: auto;
+	/* Enable scroll if needed */
+	background-color: rgb(0, 0, 0);
+	/* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4);
+	/* Black w/ opacity */
 }
+
 
 /* Modal Content/Box */
+
 .modal-content {
-  background-color: #fefefe;
-  margin: 15% auto; /* 15% from the top and centered */
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%; /* Could be more or less, depending on screen size */
+	background-color: #fefefe;
+	margin: 15% auto;
+	/* 15% from the top and centered */
+	padding: 20px;
+	border: 1px solid #888;
+	width: 80%;
+	/* Could be more or less, depending on screen size */
 }
 
+
 /* The Close Button */
+
 .close {
-  color: #aaa;
-  float: right;
-  font-size: 28px;
-  font-weight: bold;
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
 }
 
 .close:hover,
@@ -336,4 +403,3 @@ body .progress-bg div {
   text-decoration: none;
   cursor: pointer;
 }
->>>>>>> 894edca01b052738f84ddb0eb29007aa97c45543

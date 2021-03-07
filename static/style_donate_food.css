@@ -22,42 +22,55 @@ body {
 	}
 }
 
-input[type=text], select, textarea {
-    width: 100%;
-    border: 1px solid #ebfbfe;
-    border-radius: 10px; /* Rounded borders */
-    box-sizing: border-box; /* Make sure that padding and width stays in place */
-    margin-top: 6px; /* Add a top margin */
-    margin-bottom: 16px; /* Bottom margin */
-    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
-    padding: 5px;
-  }
+input[type=text],
+select,
+textarea {
+	width: 100%;
+	border: 1px solid #ebfbfe;
+	border-radius: 10px;
+	/* Rounded borders */
+	box-sizing: border-box;
+	/* Make sure that padding and width stays in place */
+	margin-top: 6px;
+	/* Add a top margin */
+	margin-bottom: 16px;
+	/* Bottom margin */
+	resize: vertical;
+	/* Allow the user to vertically resize the textarea (not horizontally) */
+	padding: 5px;
+}
 
-  /* Style the submit button with a specific background color etc */
-  input[type=submit] {
-    background-color: #ff9494;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    align-content: center;
-  }
 
-  /* When moving the mouse over the submit button, add a darker green color */
-  input[type=submit]:hover {
-    background-color: #ff6161;
-  }
+/* Style the submit button with a specific background color etc */
 
-  /* Add a background color and some padding around the form */
-  .container {
-    margin: auto;
-    margin-top: 10px;
-    width: 50%;
-    border-radius: 5px;
-    background-color:#ebfbfe;
-    padding: 20px;
-  }
+input[type=submit] {
+	background-color: #51804B;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	align-content: center;
+}
+
+
+/* When moving the mouse over the submit button, add a darker color */
+
+input[type=submit]:hover {
+	background-color: #306B34;
+}
+
+
+/* Add a background color and some padding around the form */
+
+.container {
+	margin: auto;
+	margin-top: 3%;
+	width: 50%;
+	border-radius: 5px;
+	background-color: #E9DDBF;
+	padding: 20px;
+}
 
  /* Style the header with a grey background and some padding */
 .header {

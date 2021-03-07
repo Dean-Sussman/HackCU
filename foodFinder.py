@@ -35,12 +35,11 @@ def donate_food():
     value = ""
     if (foodPantries != -1):
         for var in foodPantries:
-            print(var.foodItems)
             if len(var.foodItems) > 2:
                 var.foodItems = var.foodItems.replace("[", "").replace("]", "").replace("'", "").split(", ")
             else:
                 var.foodItems = []
-            value+=(makeTable(var.name, var.url, var.foodItems))
+            value += (makeTable(var.name, var.url, var.foodItems))
     return render_template('donate_food.html', value=value)
 
 def makeTable(name, url, foodItems):

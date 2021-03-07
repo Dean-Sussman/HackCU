@@ -112,6 +112,38 @@ input[type=text], select, textarea {
     float: none;
   }
 }
+<<<<<<< HEAD
+.insidefridge
+{
+  background-color: #333;
+  position:relative;
+  width:200px;
+  height:300px;
+
+  margin: 0 auto;
+  margin-top:50px;
+}
+
+.door
+{
+  background-color: brown;
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:200px;
+  height:300px;
+
+  transform-origin: right;
+  /*Speed of the Door animation*/
+  transition: all 0.5s ease-out;
+}
+
+.doorOpen
+{
+  /*prespective creates the door open effect*/
+  transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(180deg);
+}
+=======
 
 .fridge-container{
 position: absolute;
@@ -304,3 +336,4 @@ body .progress-bg div {
   text-decoration: none;
   cursor: pointer;
 }
+>>>>>>> 894edca01b052738f84ddb0eb29007aa97c45543

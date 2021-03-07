@@ -112,30 +112,62 @@ input[type=text], select, textarea {
     float: none;
   }
 }
-<<<<<<< HEAD
+
 .insidefridge
 {
-  background-color: #333;
+  background: url('fridge_open1.png');
+            background-repeat: no-repeat;
+            background-position: left;
   position:relative;
-  width:200px;
-  height:300px;
+  width:377px;
+  height:720px;
 
-  margin: 0 auto;
+  margin: 0;
   margin-top:50px;
 }
 
 .door
 {
-  background-color: brown;
+  background-color: #91D6F3;
   position:absolute;
-  top:0px;
-  left:0px;
-  width:200px;
-  height:300px;
+  top:200px;
+  left:100px;
+
+  width:277px;
+  height:520px;
 
   transform-origin: right;
   /*Speed of the Door animation*/
   transition: all 0.5s ease-out;
+}
+
+
+.door .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 110%;
+}
+
+.door .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.door:hover .tooltiptext {
+  visibility: visible;
 }
 
 .doorOpen
@@ -143,7 +175,6 @@ input[type=text], select, textarea {
   /*prespective creates the door open effect*/
   transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(180deg);
 }
-=======
 
 .fridge-container{
 position: absolute;
@@ -336,4 +367,4 @@ body .progress-bg div {
   text-decoration: none;
   cursor: pointer;
 }
->>>>>>> 894edca01b052738f84ddb0eb29007aa97c45543
+

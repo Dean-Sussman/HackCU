@@ -1,3 +1,9 @@
+var element = document.querySelector(".door");
+element.addEventListener("click", toggleDoor);
+
+function toggleDoor() {
+  element.classList.toggle("doorOpen");
+}
 var modal = document.getElementById("myModal");
 
 // Get the button that opens the modal

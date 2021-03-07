@@ -1,7 +1,7 @@
 import mechanize
-from flask import Flask, render_template, request, redirect
+from flask import Flask, render_template, request, redirect, session, url_for
 
-from main import writeFoodBanks
+from main import main
 
 app = Flask(__name__)
 
@@ -18,14 +18,16 @@ def donate():
         street_address = request.form['address']
         city = request.form['city']
         state = request.form['states']
-        pass_to_backend(street_address, city, state)
-        return redirect('/')
+        foodPantries = pass_to_backend(street_address, city, state)
+        for var in foodPantries:
+            print(var.name, var.url, str(var.foodItems), "\n")
+        return redirect('./donate_food')
     else:
         return render_template("index.html")
 
 
 def pass_to_backend(street_address, city, state):
-    writeFoodBanks(mechanize.Browser(), street_address, city, state);
+    return main(street_address, city, state);
 
 
 @app.route('/donate_food')
